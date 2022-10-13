@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/bacharach.jpg')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/badgers.png')}
                   alt="Features split 02"
                   width={528}
                   height={396} />

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ecdce0a34be64f97486207cdb453921",
+    "revision": "df1fab45cf3883403e780036164dd72a",
     "url": "/portfolio-react/index.html"
   },
   {
-    "revision": "dc513e9307408ec101c6",
+    "revision": "2e31c675698116cb6fdb",
     "url": "/portfolio-react/static/css/main.7b93132e.chunk.css"
   },
   {
@@ -16,20 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-react/static/js/2.fae6ec37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc513e9307408ec101c6",
-    "url": "/portfolio-react/static/js/main.9623d6ea.chunk.js"
+    "revision": "2e31c675698116cb6fdb",
+    "url": "/portfolio-react/static/js/main.c2fe824d.chunk.js"
   },
   {
     "revision": "4ae7d374cd2031bc3b0c",
     "url": "/portfolio-react/static/js/runtime-main.b5c9aa46.js"
   },
   {
-    "revision": "3ce357e71a836a86691b904396a8955c",
-    "url": "/portfolio-react/static/media/cta-illustration.3ce357e7.svg"
+    "revision": "1965eafae15d6abe6a2b13da363f6f25",
+    "url": "/portfolio-react/static/media/bacharach.1965eafa.jpg"
   },
   {
-    "revision": "0f9928d77bc67692e90527ec092fcbd0",
-    "url": "/portfolio-react/static/media/feature-tile-icon-01.0f9928d7.svg"
+    "revision": "9dfdcc7693dd2d4f27208f4192c6f2a5",
+    "url": "/portfolio-react/static/media/badgers.9dfdcc76.png"
+  },
+  {
+    "revision": "8cdec4c4df4a65c80e20501b82373120",
+    "url": "/portfolio-react/static/media/bolt.8cdec4c4.svg"
+  },
+  {
+    "revision": "3ce357e71a836a86691b904396a8955c",
+    "url": "/portfolio-react/static/media/cta-illustration.3ce357e7.svg"
   },
   {
     "revision": "bd39f30434175e7c8b1d1c74fa6569fd",
@@ -50,14 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a1776963deb39d710bae80bb449aebe",
     "url": "/portfolio-react/static/media/feature-tile-icon-06.6a177696.svg"
-  },
-  {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/portfolio-react/static/media/features-split-image-01.d9cb99ce.png"
-  },
-  {
-    "revision": "3c569239f88160018f79029ba5dc227d",
-    "url": "/portfolio-react/static/media/features-split-image-02.3c569239.png"
   },
   {
     "revision": "87e4d053756c60c9f421195d8eafdbfe",
